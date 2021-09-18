@@ -161,7 +161,7 @@ Locate the disk# of the USB drive
 5. Run installer > Clean Install > External SSD > Don’t Encrypt
 6. Restart > Unplug USB drive > Hold down Option (Alt) > Select EFI boot
 7. On Desktop > Boot into BIOS > Use boot manager / Force boot > Select UEFI: SSD NAME
-8. (Optional) [MacBook Pop_OS Post Installation]()
+8. (Optional) [MacBook Pop_OS Post Installation](#post-installation)
 
 #
 ## Post Installation
